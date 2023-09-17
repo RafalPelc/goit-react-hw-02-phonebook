@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RafalPelc/goit-react-hw-02-phonebook/static/css/main.906b14d7.css",
+    "main.js": "/RafalPelc/goit-react-hw-02-phonebook/static/js/main.e7d3a6be.js",
+    "index.html": "/RafalPelc/goit-react-hw-02-phonebook/index.html",
+    "main.906b14d7.css.map": "/RafalPelc/goit-react-hw-02-phonebook/static/css/main.906b14d7.css.map",
+    "main.e7d3a6be.js.map": "/RafalPelc/goit-react-hw-02-phonebook/static/js/main.e7d3a6be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.906b14d7.css",
+    "static/js/main.e7d3a6be.js"
+  ]
+}
